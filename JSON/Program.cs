@@ -25,7 +25,7 @@ namespace JSON
 
         static void Main(string[] args)
         {
-            string filePath = @"C:\Users\Ximen\source\repos\ConsoleApp29\ConsoleApp29\bin\Debug";
+            string filePath = @"C:\Users\Luis\source\repos\JSON\JSON\bin\Debug";
             string jsonString = "";
             try
             {
